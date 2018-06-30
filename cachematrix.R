@@ -23,7 +23,7 @@ makeCacheMatrix <- function(MyMatrix = matrix()) {
 
 
 ## cacheSolve calculates the inverse of a square matrix
-## if the inverse has been calcualtes already 
+## if the inverse has been calculated already 
 ## and the matrix has not changed
 ## then the function retrieves the cached inverse function
 
